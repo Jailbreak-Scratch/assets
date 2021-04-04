@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="2021.01.13" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="1" nextlayerid="5" nextobjectid="1">
+ <editorsettings>
+  <export target="Main Building.lua" format="lua"/>
+ </editorsettings>
+ <tileset firstgid="1" source="Main Building Tile.tsx"/>
+ <tileset firstgid="2" source="Main building wall.tsx"/>
+ <tileset firstgid="3" source="Main Building Door.tsx"/>
+ <tileset firstgid="4" source="Main Building Chair.tsx"/>
+ <layer id="1" name="Flooring" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-32" y="-16" width="16" height="16">
+   eJxjYGBgYKQAM4zqH9U/qn/I6gcA5A8A8Q==
+  </chunk>
+   <chunk x="-16" y="-16" width="16" height="16">
+   eJxjZGBgYCQDwwA5ekf1j+of1U+ZfmphAMnnAOU=
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   eJxjYBgFo2AUDBRgxIPpoR8ACJgADw==
+  </chunk>
+   <chunk x="-32" y="0" width="16" height="16">
+   eJxjYGBgYKQAM4zqH9U/xPWPZAAAxg8AtQ==
+  </chunk>
+   <chunk x="-16" y="0" width="16" height="16">
+   eJxjZGBgYByCGAZG9Y/qp0T/SAcAupcArQ==
+  </chunk>
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjZGBgYMSBiQG49BKrfxSMglEwcAAAOZgADw==
+  </chunk>
+  </data>
+ </layer>
+ <layer id="2" name="Wall" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-32" y="-32" width="16" height="16">
+   eJxjYBgFo2AUDFXARCEGAAhAACE=
+  </chunk>
+   <chunk x="-16" y="-32" width="16" height="16">
+   eJxjYBgFo2AUDFXARAEGAQAIOAAf
+  </chunk>
+   <chunk x="-32" y="-16" width="16" height="16">
+   eJxjYqAMMI3qH9U/qn/I6gcASAAAIQ==
+  </chunk>
+   <chunk x="-16" y="-16" width="16" height="16">
+   eJxjYCAPMJGpb1T/qP5R/RD9lJpBDQAAQWgAHw==
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   eJxjYBgFo2AUkAuY8OChAAAN2AAP
+  </chunk>
+   <chunk x="-32" y="0" width="16" height="16">
+   eJxjYqAMMI3qH9U/xPVTgoc6AABfQAA5
+  </chunk>
+   <chunk x="-16" y="0" width="16" height="16">
+   eJxjYBiagAmKKdFPqf2j+oe+fiYK8HAAAFBgADU=
+  </chunk>
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjYBhYwIQHj4JRMApoCwA0WAAP
+  </chunk>
+  </data>
+ </layer>
+ <layer id="3" name="Entrance/Exit Door" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   <chunk x="0" y="-16" width="16" height="16">
+   eJxjYBgFo2AUDEbADMW01A8ABxgADQ==
+  </chunk>
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjYMANmKGYXECp/lEwCkYBbQEAMRgADQ==
+  </chunk>
+  </data>
+ </layer>
+ <layer id="4" name="Cafeteria Chairs" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-32" y="-16" width="16" height="16">
+   eJztzykOACEUBFEEywAzMGz3vypl8F9gSKjkqVat1J40DCwcHnjBtgqIePEhIQu21Y+CioaOIdh2df/f/yf+n50kBwk=
+  </chunk>
+   <chunk x="-16" y="-16" width="16" height="16">
+   eJztzzkOwCAQBEECg8Hm9PH/r9LJ5itBgkRLFU00xox1wMLhhEdQbNKFGxEJGUWxSRUND158+BXbrPb//X/l/x3VZAcJ
+  </chunk>
+   <chunk x="-32" y="0" width="16" height="16">
+   eJxjYBgFpAJGKIYBJgowOqBU/ygYBaQAAJDEADk=
+  </chunk>
+   <chunk x="-16" y="0" width="16" height="16">
+   eJxjYBgFlAAmMjE2/aNgFNAbAABdEAAj
+  </chunk>
+  </data>
+ </layer>
+</map>
