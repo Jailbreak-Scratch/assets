@@ -32,16 +32,20 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Main Building Meeting Glass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Main Building Tile.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "Main Building.tmx": {
-            "scale": 1,
+            "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": -589.5,
-                "y": 72.5
+                "x": -841,
+                "y": -1287
             }
         },
         "Main Building.tsx": {
@@ -56,8 +60,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1853,
-                "y": 161
+                "x": 2815,
+                "y": 255
             }
         },
         "Prision Fence.tsx": {
@@ -102,12 +106,14 @@
         "Main Building Tile.tsx",
         "Main building wall.tsx",
         "Main Building Door.tsx",
-        "Main Building Chair.tsx"
+        "Main Building Chair.tsx",
+        "Main Building Meeting Glass.tsx"
     ],
     "project": "Jailbreak.tiled-project",
     "recentFiles": [
         "Map.tmx",
         "Main Building.tsx",
+        "Main Building Meeting Glass.tsx",
         "Main Building Chair.tsx",
         "Main Building Door.tsx",
         "Main building wall.tsx",
@@ -116,8 +122,7 @@
         "Prision Fence.tsx",
         "Court and path.tsx",
         "dirt.tsx",
-        "stone.tsx",
-        "sand.tsx"
+        "stone.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.type": 0
